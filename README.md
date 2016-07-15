@@ -1,2 +1,3 @@
 # hello-unknown
-the  first repository
+
+嗨，我叫朱志华。一起学习吧
